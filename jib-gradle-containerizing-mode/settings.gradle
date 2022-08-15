@@ -1,2 +1,8 @@
+pluginManagement {
+    repositories {
+        mavenCentral()
+        mavenLocal()
+    }
+}
 rootProject.name = 'jib-gradle-containerizing-mode'
 
